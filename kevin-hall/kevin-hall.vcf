@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Hall;Kevin;;;
+FN:Kevin Hall
+ORG:Gilmer
+TITLE:Chief Commercial Officer
+TEL;TYPE=WORK,VOICE:404-276-5410
+EMAIL;TYPE=INTERNET,WORK:kevin.hall@gilmer1.com
+URL:https://www.gilmer1.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/kevin-hall-66aabb/
+END:VCARD
