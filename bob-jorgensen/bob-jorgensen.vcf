@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Jorgensen;Bob;;;
+FN:Bob Jorgensen
+ORG:Gilmer
+TITLE:Chief Operations Officer
+TEL;TYPE=WORK,VOICE:630-746-1012
+EMAIL;TYPE=INTERNET,WORK:bob.jorgensen@gilmer1.com
+URL:https://www.gilmer1.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/bob-jorgensen/
+END:VCARD
