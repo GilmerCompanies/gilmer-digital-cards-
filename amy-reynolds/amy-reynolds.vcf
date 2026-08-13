@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Reynolds;Amy;;;
+FN:Amy Reynolds
+ORG:Gilmer
+TITLE:Staff Accountant
+TEL;TYPE=WORK,VOICE:478-214-3144
+EMAIL;TYPE=INTERNET,WORK:amy.reynolds@gilmer1.com
+URL:https://www.gilmer1.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/amy-reynolds-b757a0289/
+END:VCARD
